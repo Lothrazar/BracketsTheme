@@ -1,0 +1,15 @@
+{
+    "name": "sam.samnotugly",
+    "title": "My not ugly",
+    "description": "Brackets defaults are so effing ugly",
+    "homepage": "https://github.com/PrinceOfAmber",
+    "version": "1.0.0",
+    "author": "Sam Bassett <your@email> (https://github.com/PrinceOfAmber)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
